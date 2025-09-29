@@ -32,17 +32,3 @@ It uses the **UCI Heart Disease dataset** (or your custom dataset `heart.csv`).
 ### Dataset
 
 You can use your local `heart.csv`
-# requirements.txt
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-# Recommended Folder Structure
-Heart-Disease-Prediction/
-│── heart.csv                 # Your dataset
-│── main.py                   # Python script
-│── requirements.txt          # Dependencies
-│── README.md                 # Documentation
-│── results/                  # Optional: save plots & reports here
-
